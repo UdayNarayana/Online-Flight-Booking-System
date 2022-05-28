@@ -1,1 +1,1 @@
-This is a springboot microservice project that allows the user to view all the flight details and book one and the admins to update the details of the flight information.
+This is a springboot microservice project that allows the user to view all the flight details and book one and the admins to update the details of the flight information. This project also consists of a Dockerfile for every module to build a docker image from it.
