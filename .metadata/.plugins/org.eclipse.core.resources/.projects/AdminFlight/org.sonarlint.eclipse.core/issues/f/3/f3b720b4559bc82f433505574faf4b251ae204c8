@@ -1,0 +1,17 @@
+
+‘
+java:S1192;"cDefine a constant instead of duplicating this literal "There is no flight with flight ID " 3 times.(þëº}HÂRCRITICALZ
+CODE_SMELL
+u
+java:S1192N"FDefine a constant instead of duplicating this literal "Admin" 5 times.(é‘ñ¸HÆRCRITICALZ
+CODE_SMELL
+g
+java:S2259N"BA "NullPointerException" could be thrown; "user" is nullable here.(é‘ñ¸HÌRMAJORZBUG
+g
+java:S2259^"BA "NullPointerException" could be thrown; "user" is nullable here.(é‘ñ¸HÐRMAJORZBUG
+g
+java:S2259z"BA "NullPointerException" could be thrown; "user" is nullable here.(é‘ñ¸HÔRMAJORZBUG
+h
+java:S2259‹"BA "NullPointerException" could be thrown; "user" is nullable here.(é‘ñ¸HØRMAJORZBUG
+h
+java:S2259ž"BA "NullPointerException" could be thrown; "user" is nullable here.(é‘ñ¸HÜRMAJORZBUG

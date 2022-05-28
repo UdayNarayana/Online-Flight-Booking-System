@@ -1,0 +1,40 @@
+
+š
+java:S1192~"fDefine a constant instead of duplicating this literal "Only admin can can view the bookings." 3 times.(ŸÇåÛøÿÿÿÿHª
+RCRITICALZ
+CODE_SMELL
+u
+java:S1192}"FDefine a constant instead of duplicating this literal "Admin" 3 times.(é‘ñ¸H®
+RCRITICALZ
+CODE_SMELL
+¢
+java:S1192•"mDefine a constant instead of duplicating this literal "There is no booking record with Booking ID: " 3 times.(í‚ÖñùÿÿÿÿH²
+RCRITICALZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿»ôóøÿÿÿÿH¶
+RMINORZ
+CODE_SMELL
+h
+java:S2259¿"BA "NullPointerException" could be thrown; "user" is nullable here.(‹ÍÒÞH·
+RMAJORZBUG
+h
+java:S2259‘"BA "NullPointerException" could be thrown; "user" is nullable here.(é‘ñ¸H»
+RMAJORZBUG
+h
+java:S2259Û"BA "NullPointerException" could be thrown; "user" is nullable here.(‹ÍÒÞH¿
+RMAJORZBUG
+g
+java:S2259}"BA "NullPointerException" could be thrown; "user" is nullable here.(é‘ñ¸HÃ
+RMAJORZBUG
+h
+java:S2259¤"BA "NullPointerException" could be thrown; "user" is nullable here.(é‘ñ¸HÇ
+RMAJORZBUG
+e
+java:S2259Í"?A "NullPointerException" could be thrown; "p" is nullable here.(ˆšæ£HË
+RMAJORZBUG
+o
+java:S2259È"DA "NullPointerException" could be thrown; "flight" is nullable here.(Öž³ÛýÿÿÿÿHÏ
+RMAJORZBUG
+s
+java:S4684²"@Replace this persistent entity with a simple POJO or DTO object.(×ØÉ›HÓ
+RCRITICALZVULNERABILITY
